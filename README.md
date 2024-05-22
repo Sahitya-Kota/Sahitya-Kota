@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Sahitya-Kota
+- 👀 I’m interested in Data Science and Machine Learning
+- 🌱 I’m currently learning Data Analytics
+- 😄 Pronouns: she/her
