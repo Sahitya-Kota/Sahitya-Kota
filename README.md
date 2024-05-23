@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Sahitya-Kota
-- 👀 I’m interested in Data Science and Machine Learning
+- 👀 I’m interested in Data Science, Machine Learning and Web Development
 - 🌱 I’m currently learning Data Analytics
 - 😄 Pronouns: she/her
